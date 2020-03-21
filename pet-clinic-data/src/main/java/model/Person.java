@@ -1,4 +1,4 @@
-package com.springKrish.sfgpetclinic.model;
+package model;
 
 public class Person {
 
